@@ -1,6 +1,6 @@
 # House Price Prediction
 
-The oject of the project was to predict housing prices based on its features using ordinary least squares (OLS) linear regression model. 
+The objective of the project was to predict housing prices based on its features using ordinary least squares (OLS) linear regression model. 
 
 # Libraries
 1. Numpy
