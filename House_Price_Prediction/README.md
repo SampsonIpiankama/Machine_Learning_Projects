@@ -32,3 +32,5 @@ The R-squared of the OLS linear regression model is just a abit above 60% which 
 
 # Recommendation
 Other regression models like the, Lasso, Ridge, Bayesian, and Elastic Net should be tested so know which is of them is highest predictor of the housing price.
+
+**##I have built and testesd the four regression models recommended above [see it here](https://github.com/SampsonIpiankama/Machine_Learning_Projects/blob/main/House_Price_Prediction/Sampson%20Chinonso%20Ipiankama%20Housing%20Price%20Prediction.ipynb)**
