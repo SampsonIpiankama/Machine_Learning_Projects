@@ -5,7 +5,7 @@ Customer segmentation is one of  the application of data mining which helps to s
 It is the simplest algorithm of clustering based on partitioning principle. The algorithm is sensitive to the initialization of the centroids position, the number of K (centroids) is calculated by elbow method, after calculation of K centroids by the terms of Euclidean distance data points are assigned to the closest centroid forming the cluster, after the cluster formation the barycentre’s are once again calculated by the means of the cluster and this process is repeated until there is no change in centroid position.
 
 ### Problem Statement: 
-A retail store wants to understand its customer segments so that it can create a cutomized marketing plan for each of them.
+A retail store wants to get insights about its customers. And then build a system that can cluster customers into different groups.
 
 ### Goals:
 - To customize market programs that will be suitable for each of its customer segments. 
