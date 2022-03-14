@@ -11,6 +11,9 @@ A retail store wants to understand its customer segments so that it can create a
 - To customize market programs that will be suitable for each of its customer segments. 
 - To also raise further market research questions as well as providing directions to finding the solutions.
 
+### Dataset : 
+[Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
 ### Work flow
 - Data collection
 - Data preprocessing
